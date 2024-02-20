@@ -6,3 +6,4 @@
 * 変換されたファイルと同じディレクトリにpythonスクリプトを配置して実行
 
 テストしたrpg maker mv作品: https://www.dlsite.com/maniax/work/=/product_id/RJ01112545.html
+これ以外のゲームではスクリプトの多少の変更が必要かも？
